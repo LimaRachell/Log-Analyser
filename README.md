@@ -52,6 +52,7 @@ python app.py
 
 ---
 📁 Dataset
+
 Synthetic + real-world inspired logs
 Includes multiple attack types:
 Brute Force
@@ -59,6 +60,7 @@ DDoS
 Unauthorized Access
 
 📌 Use Cases
+
 Cybersecurity monitoring
 SOC analysis
 Educational ML project
